@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+	<head>		
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>아빠가 직접 알아보는 젖병 소독기의 모든 것 - wiki.selfhow.com</title>		
+		<link rel="alternate" type="application/rss+xml" title="아빠가 직접 알아보는 젖병 소독기의 모든 것 - wiki.selfhow.com 피드" href="http://wiki.selfhow.com/rss/" />
+
+		<link rel='stylesheet' href='/static/dashicons.min.css?ver=4.3.2' type='text/css' media='all' />
+		<link rel='stylesheet' href='/static/admin-bar.min.css?ver=4.3.2' type='text/css' media='all' />
+		<link rel='stylesheet' href='/static/style.css?ver=3.1' type='text/css' media='all' />
+		<link rel='stylesheet' href='//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic' type='text/css' media='all' />
+		<style type="text/css">
+			img.wp-smiley,
+			img.emoji {
+			  display: inline !important;
+			  border: none !important;
+			  box-shadow: none !important;
+			  height: 1em !important;
+			  width: 1em !important;
+			  margin: 0 .07em !important;
+			  vertical-align: -0.1em !important;
+			  background: none !important;
+			  padding: 0 !important;
+			}
+		</style>
+		<script type='text/javascript' src='/static/jquery.js?ver=1.11.3'></script>
+		<script type='text/javascript' src='/static/jquery-migrate.min.js?ver=1.2.1'></script>
+		<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+		<style type="text/css" media="screen">
+			html { margin-top: 32px !important; }
+			* html body { margin-top: 32px !important; }
+			@media screen and ( max-width: 782px ) {
+				html { margin-top: 46px !important; }
+				* html body { margin-top: 46px !important; }
+			}
+		</style>
+
+		<svg display="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="272" height="32" viewBox="0 0 272 32">
+			<defs>
+				<g id="icon-search">
+					<path class="path1" d="M28.072 24.749l-6.046-6.046c0.912-1.499 1.437-3.256 1.437-5.139 0-5.466-4.738-10.203-10.205-10.203-5.466 0-9.898 4.432-9.898 9.898 0 5.467 4.736 10.205 10.203 10.205 1.818 0 3.52-0.493 4.984-1.349l6.078 6.080c0.597 0.595 1.56 0.595 2.154 0l1.509-1.507c0.594-0.595 0.378-1.344-0.216-1.938zM6.406 13.258c0-3.784 3.067-6.853 6.851-6.853 3.786 0 7.158 3.373 7.158 7.158s-3.067 6.853-6.853 6.853-7.157-3.373-7.157-7.158z"></path>
+				</g>
+				<g id="icon-twitter">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM22.246 13.224c0.006 0.13 0.010 0.261 0.010 0.392 0 3.997-3.043 8.606-8.608 8.606-1.707 0-3.299-0.499-4.637-1.36 0.237 0.029 0.478 0.042 0.722 0.042 1.418 0 2.722-0.483 3.758-1.296-1.323-0.024-2.442-0.899-2.827-2.099 0.184 0.035 0.374 0.054 0.568 0.054 0.277 0 0.544-0.037 0.797-0.106-1.382-0.278-2.427-1.501-2.427-2.966 0-0.013 0-0.026 0.002-0.037 0.408 0.226 0.875 0.362 1.37 0.378-0.81-0.542-1.344-1.467-1.344-2.518 0-0.555 0.149-1.075 0.41-1.522 1.491 1.832 3.722 3.037 6.235 3.162-0.051-0.221-0.078-0.451-0.078-0.69 0-1.67 1.355-3.026 3.026-3.026 0.87 0 1.656 0.366 2.208 0.955 0.69-0.134 1.338-0.386 1.922-0.733-0.227 0.706-0.706 1.299-1.331 1.674 0.613-0.074 1.195-0.235 1.738-0.477-0.405 0.606-0.92 1.139-1.51 1.566z"></path>
+				</g>
+				<g id="icon-facebook">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM19.637 11.254h-2.309c-0.272 0-0.576 0.36-0.576 0.838v1.667h2.886v2.378h-2.886v7.138h-2.726v-7.138h-2.47v-2.376h2.47v-1.398c0-2.006 1.392-3.637 3.302-3.637h2.309v2.528z"></path>
+				</g>
+				<g id="icon-pinterest">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM17.050 19.642c-0.984-0.077-1.397-0.565-2.168-1.034-0.426 2.227-0.942 4.362-2.48 5.475-0.474-3.365 0.698-5.891 1.24-8.573-0.926-1.558 0.112-4.698 2.066-3.925 2.405 0.952-2.083 5.798 0.93 6.405 3.146 0.632 4.429-5.458 2.478-7.437-2.818-2.859-8.202-0.066-7.539 4.029 0.162 1.002 1.194 1.304 0.413 2.686-1.803-0.4-2.342-1.822-2.272-3.718 0.112-3.106 2.789-5.278 5.474-5.581 3.397-0.379 6.584 1.246 7.026 4.442 0.494 3.608-1.534 7.512-5.166 7.23z"></path>
+				</g>
+				<g id="icon-linkedin">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM12.24 22.366h-3.11v-10.008h3.11v10.008zM10.666 11.13c-0.982 0-1.618-0.698-1.618-1.557 0-0.88 0.654-1.555 1.658-1.555s1.618 0.675 1.637 1.555c0.002 0.861-0.634 1.557-1.677 1.557zM23.598 22.366h-3.109v-5.547c0-1.29-0.451-2.168-1.576-2.168-0.859 0-1.37 0.594-1.597 1.166-0.082 0.203-0.102 0.491-0.102 0.776v5.771h-3.112v-6.816c0-1.248-0.040-2.293-0.082-3.192h2.701l0.144 1.39h0.061c0.41-0.654 1.413-1.616 3.091-1.616 2.046 0 3.581 1.37 3.581 4.317v5.918z"></path>
+				</g>
+				<g id="icon-eye">
+					<path class="line-eye" fill="none" fill-opacity="0" stroke="#ccc" stroke-width="0.5" stroke-miterlimit="1" d="M16,6C7.163,6,0,16,0,16s7.163,10,16,10s16-10,16-10S24.837,6,16,6z M16,22c-3.313,0-6-2.688-6-6
+					c0-3.313,2.687-6,6-6c3.312,0,6,2.687,6,6C22,19.312,19.312,22,16,22z M16,12c-2.209,0-4,1.791-4,4s1.791,4,4,4s4-1.791,4-4 S18.209,12,16,12z"/>
+				</g>
+				<symbol id="icon-instagram" viewBox="0 0 1024 1024">
+					<title>instagram</title>
+					<path class="path1" d="M518.22 601.605c24.826 0 46.013-8.467 63.559-25.44 17.56-16.973 26.346-37.493 26.346-61.519 0-24.066-8.773-44.573-26.346-61.559-17.533-16.96-38.733-25.453-63.559-25.453-24.64 0-45.733 8.493-63.293 25.453-17.546 16.986-26.333 37.493-26.333 61.559 0 24.040 8.787 44.546 26.333 61.519 17.56 16.946 38.653 25.44 63.293 25.44z"></path>
+					<path class="path2" d="M670.685 341.796h-50.653c-5.613 0-10.36 1.987-14.226 5.96-3.893 3.987-5.84 8.68-5.84 14.133v47.999c0 5.613 1.947 10.373 5.84 14.24 3.867 3.893 8.613 5.827 14.226 5.827h50.653c5.613 0 10.36-1.933 14.24-5.827 3.88-3.867 5.827-8.627 5.827-14.24v-47.999c0-5.453-1.947-10.147-5.827-14.133-3.88-3.973-8.627-5.96-14.24-5.96z"></path>
+					<path class="path3" d="M657.298 519.273c0 24.453-6.2 46.973-18.613 67.652-12.44 20.666-29.293 36.986-50.626 49.039-21.346 12.013-44.626 18.026-69.826 18.026-38.226 0-70.906-13.133-98.065-39.426-27.146-26.28-40.733-58.039-40.733-95.279 0-13.186 1.947-25.893 5.827-38.093h-41.026v188.518c0 5.040 1.693 9.253 5.107 12.653 3.373 3.413 7.6 5.107 12.64 5.107h311.023c4.84 0 9.013-1.693 12.507-5.107 3.493-3.4 5.24-7.613 5.24-12.653v-188.531h-39.266c3.867 12.213 5.813 24.906 5.813 38.093z"></path>
+					<path class="path4" d="M511.967 0c-282.756 0-511.967 229.21-511.967 511.967 0 282.81 229.21 512.033 511.967 512.033 282.81 0 512.020-229.21 512.020-512.033 0.013-282.756-229.21-511.967-512.020-511.967zM741.377 681.631c0 15.72-5.627 29.186-16.893 40.439-11.253 11.267-24.72 16.88-40.439 16.88h-332.262c-15.706 0-29.186-5.613-40.439-16.88-11.24-11.253-16.88-24.72-16.88-40.439v-332.262c0-15.706 5.64-29.2 16.88-40.439 11.253-11.253 24.733-16.88 40.439-16.88h332.249c15.733 0 29.186 5.627 40.453 16.88 11.253 11.24 16.88 24.733 16.88 40.439v332.262z"></path>
+				</symbol>
+			</defs>
+		</svg>
+		<!--[if lt IE 9]>
+			<script src="http://wiki.selfhow.com/wp-content/themes/so-simple-75/assets/js/html5shiv.min.js"></script>
+			<script src="http://wiki.selfhow.com/wp-content/themes/so-simple-75/assets/js/respond.min.js"></script>
+		<![endif]-->
+
+		<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+	</head>
+	<body class="home blog logged-in admin-bar no-customize-support">		
+		<div id="page" class="hfeed site">			
+			<header class="site-header">				
+				<div class="menu-icon">
+					<div class="menu-global menu-top"></div>
+					<div class="menu-global menu-middle"></div>
+					<div class="menu-global menu-bottom"></div>
+				</div>
+				
+				<nav class="col-xs-12 col-sm-6 main-navigation no-padding" role="navigation">
+					<div class="menu">
+						<ul>
+							<li class="page_item page-item-2">
+								<a href="/분류/">분류</a>
+							</li>
+						</ul>
+					</div>
+				</nav><!-- #site-navigation -->
+
+				<div class="site-logo">
+					<h1 class="site-title"><a href="/" rel="home">셀프위키</a></h1>
+					<p class="site-description">잡학다식 셀프위키</p>
+					<p>
+					<form method='post' action='/search/'>
+					  <input type='text' name='keyword' style='width:150px;' />
+					  <input type='submit' name='btnsearch' value='검색' />
+					</form>
+					</p>			
+				</div>
+			</header>			
+			<div id="content" class="site-content">
+				<main id="main" class="site-main" role="main">
+					<article id="item post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized">
+						<div class="entry-content">	
+							  <!-- 애드센스 이미지 광고. 반응형 -->
+								<DIV class='ads_adsense_img' style='margin:40px 0px 40px 0px;'>
+								<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+								<!-- 디스플레이광고만 -->
+								<ins class="adsbygoogle"
+								     style="display:block"
+								     data-ad-client="ca-pub-8393857339019314"
+								     data-ad-slot="7474886381"
+								     data-ad-format="auto"></ins>
+								<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+								</script>
+								</DIV>
+								<!-- 애드센스 이미지 광고 끝 -->													
+							  
+		<strong><h1 class="entry-title"><a href='/아빠가-직접-알아보는-젖병-소독기의-모든-것'>아빠가 직접 알아보는 젖병 소독기의 모든 것</a></h1></strong>
+		<div>		
+		<span class="entry-date">
+			<span class="posted-on">
+				<a href="/아빠가-직접-알아보는-젖병-소독기의-모든-것" title="selfhow" rel="selfhow">
+					<time class="entry-date published" datetime="16-03-24T07:18:22+09:00">최초 생성 : 16-03-24 07:18:22</time>
+					 // 
+					<time class="updated" datetime="16-03-29T13:59:17+09:00">최종 수정 : 16-03-29 13:59:17</time>
+				</a>
+			</span>			
+		</span>
+		<p><p>이 글은 2016년 03월 02일 15시 17분 에 마지막으로 수정되었습니다.  </p>
+<p>아빠의 시선으로 아이를 바라보다.  </p>
+<h1 id="_1">아기 엄마를 도와주세요.</h1>
+<p><img alt="아기인형" src="http://farm4.static.flickr.com/3083/2280591151_fc68725c9d_z.jpg" /><br />
+<a href="https://m.flickr.com/#/photos/cakegirl/2280591151/">아기인형. 출처: 플리커</a>  </p>
+<p>드디어 우리집에도 아기가 태어났어요!  </p>
+<p>너무 이쁘고 귀여운 것도 잠시, 걱정이 이만저만이 아니죠.  </p>
+<pre class="codehilite"><code>애기 기저귀는 어떻게 갈지?  
+모유수유는 할 수 있을까?  
+완모를 한다고 하는데 정말 가능할까?</code></pre>
+
+
+<p><strong>아이 엄마가 완모를 할 수 있도록 아빠가 도와줘야겠어요.</strong>  </p>
+<h1 id="_2">실제로 완모는 힘들어요.</h1>
+<p>많은 부모님들이 아기가 유아식을 먹을때까지 모유로 아이를 키우고 싶어해요.  </p>
+<p>하지만 이게 쉽지가 않죠.<br />
+젖이 잘 안나오는 경우도 있고, 엄마가 너무 힘들어하기도 해요.  </p>
+<p>이럴 때 남편이 해줄 수 있는 건 뭘까요?<br />
+물론 분유를 살 수 있도록 돈을 벌어오는 것도 남편의 몫이에요.<br />
+그리고 덧붙여서 중요한 것은 엄마가 <em>직접 모유를 먹이지 않아도 아기가 젖을 먹을 수 있도록 엄마 대신 아기에게 젖을 먹이는 것</em> 이죠.  </p>
+<p><strong>힘들어하는 엄마를 대신해 가끔은 아기 젖을 대신 주세요.</strong>  </p>
+<h1 id="_3">젖병이 필요해요.</h1>
+<p>내 아기에게 아빠가 직접 수유를 할 수는 없으니까 젖병이 필요해요.<br />
+<a href="http://click.linkprice.com/click.php?m=uril&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//m.0to7.com/shop/item/583808"><img alt="더블하트 젖병" src="http://www.0to7.com/images/itemimg/IMGX_noppsuset_20140619090049.jpg" /><br />
+출처 : 제로 투 세븐<br />
+</a>  </p>
+<p>이 젖병은 더블하트라는 브랜드 제품인데, 소위 말하는 <strong>국민 젖병</strong> 이에요.  </p>
+<p>이런 젖병으로 아이에게 젖을 먹여요.  </p>
+<h1 id="_4">젖병은 일회용이 아니에요.</h1>
+<p>젖병만 사서 엄마 대신 아이에게 먹이면 될 것 같지만, <em>역시 인생은 녹녹하지 않아요.</em>  </p>
+<p>아이의 젖병은 위생이 중요하잖아요.<br />
+그래서 아이 젖병은 <strong>자주 자주 소독</strong>해 줘야 해요.  </p>
+<h1 id="_5">열탕소독</h1>
+<p>우리 조상 대대로 전해오는 전통의 방법을 따라 열탕소독을 해 보기로 해요.<br />
+열탕소독이라는 건 말 그대로 뜨거운 냄비에 아기 젖병을 삶는 것을 말해요.  </p>
+<pre class="codehilite"><code>열탕소독 방법이 가장 확실하고, 아이에게 유해한 세균도 없엘 수 있어요.</code></pre>
+
+
+<h1 id="-">열탕소독 - 좋기는 한데 멘붕이 와요.</h1>
+<p>사실 열탕소독은 힘들어요.<br />
+아이가 없을 때는 물 끓이고 뭔가 소독할 일도 없었지만, 하는 것 자체는 어렵지 않았잖아요.<br />
+그런데 이제 아이가 태어났어요.  </p>
+<ul>
+<li>열탕소독 하려고 물 끓이다가 보면 아이가 울어요.  </li>
+<li>잠깐 아이 보러 다녀와 보면 물이 끓어 넘쳐있어요.  </li>
+<li>물 끓이다가 데이기도 많이 데이고요.  </li>
+<li>젖병을 많이 태워먹기도 해요.  </li>
+<li>은근히 열탕소독 할 수 없는 육아용품도 많아서 난감하죠.  </li>
+<li>심지어는 여름에는 덥기까지 해요.  </li>
+<li>물을 끓이는 것이기 때문에 한번 소독하면 습기가 엄청나요.  </li>
+</ul>
+<h1 id="_6">늘 그렇듯 대안은 있어요.</h1>
+<p>바로 <strong>젖병 소독기</strong> 에요.  </p>
+<p>이게 뭘까요?<br />
+식당 가면 가끔 보셨을 물건이 있어요.<br />
+<a href="http://click.linkprice.com/click.php?m=auction&amp;a=A100515441&amp;l=9999&amp;l_cd1=3&amp;l_cd2=0&amp;tu=http%3A%2F%2Fitempage3.auction.co.kr%2FDetailView.aspx%3Fitemno%3DA601163377"><img alt="컵 소독기" src="http://image.auction.co.kr/itemimage/32/6a/b2/326ab2711.jpg" /><br />
+출처 : 옥션<br />
+</a>  </p>
+<p>이런 컵 소독기에요.<br />
+이걸 아기용으로 만들어 둔 것을 젖병소독기라고 해요.  </p>
+<h1 id="_7">젖병소독기 고르는 기준</h1>
+<h2 id="_8">소독은 잘 되나?</h2>
+<p>젖병소독기는 일반적으로 적외선으로 소독을 해요.<br />
+빨간 불이 나오면서 안에 있는 물건에 적외선을 투과시켜 소독하는 방식이죠.<br />
+그런데 이 적외선은 직접 쬐는 게 아니라 반사판에 투과되면 효과가 적어진다고 해요. (물론 아얘 효과가 없는 건 아니에요)<br />
+사실 소독 효과는 눈으로 확인할 수 없기 때문에 뭔가 좀 아리송한 면이 있어요.  </p>
+<h2 id="_9">크기</h2>
+<p>크기는 크면 좋죠. 왜냐하면 젖병소독기라고 해서 젖병만 소독하는 건 아니니까요.<br />
+사실 젖병소독기는 조금만 지나면 <strong>아이들 장난감 소독용</strong>으로 사용한다고 하네요.  </p>
+<h2 id="_10">건조방식</h2>
+<p>건조방식은 자외선 저온 건조를 하는 방식이 있고, 뜨거운 바람으로 건조를 시키는 방식이 있어요.<br />
+각각 장단점이 있는데요.  </p>
+<h3 id="_11">자외선 저온 건조:</h3>
+<ul>
+<li>온도가 높지 않기 때문에 데이거나 할 가능성이 적어요.  </li>
+<li>장난감이나 젖병 소독시에 일그러짐이 적어요.  </li>
+<li>
+<p>여차하면 균이 더 번식할 수도 있어요. 40-50 도에서는 안죽는 균도 많거든요.  </p>
+</li>
+<li>
+<p>열풍 건조 :  </p>
+</li>
+<li>균은 거의 무조건 죽어요. <em>뜨겁거든요.</em>  </li>
+<li>잘못 만지면 사람의 피부도 죽어요.  </li>
+<li>열에 약한 플라스틱 인형 등을 잘못 건조하면 눈 한쪽이 일그러진 모양으로 나오기도 해요.  </li>
+</ul>
+<h1 id="_12">젖병소독기 사용시 주의점</h1>
+<p>아이 입에 닿는 부분은 반드시! 적외선 램프에서 바로 빛이 닿을 수 있도록 사용해야 해요.<br />
+직접 빛이 닿지 않으면 <strong>소독 효과가 없을 수도 있어요</strong>  </p>
+<h1 id="_13">어떤 젖병 소독기를 추천할까?</h1>
+<p><a href="http://m.search.naver.com/search.naver?query=%EC%A0%96%EB%B3%91%20%EC%86%8C%EB%8F%85%EA%B8%B0&amp;where=m&amp;sm=mtp_hty"><strong>검색</strong></a> 해 보면 대세는 두개에요.  </p>
+<h2 id="_14">유팡</h2>
+<p><a href="http://click.linkprice.com/click.php?m=boribori&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//m.boribori.co.kr/Shop/Detail.aspx%3FPrstCd%3DUP401-Y%26ColorCd%3DZZ9"><img alt="유팡 젖병소독기" src="http://cdn.boribori.co.kr/Images_Product/DefaultLarge/RC2/P010571605.jpg" /><br />
+출처 : 보리보리<br />
+</a>  </p>
+<p>유팡 젖병 소독기는 적외선 소독을 하고, 자외선 건조를 해요.  </p>
+<h2 id="_15">레이퀸</h2>
+<p><a href="http://click.linkprice.com/click.php?m=uril&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//m.0to7.com/shop/item/901863"><br />
+<img alt="레이퀸 젖병소독기" src="http://www.0to7.com/images/itemimg/IMGX_main_20120926101227.JPG" /><br />
+출처 : 제로 투 세븐<br />
+</a>  </p>
+<p>레이퀸 젖병 소독기는 적외선 소독을 하고, 열풍 건조를 해요.  </p>
+<h2 id="_16">유팡 레이퀸 비교</h2>
+<ul>
+<li>유팡이 좀 더 작아서 인테리어 소품으로 알맞아요.  </li>
+<li>레이퀸이 더 크기 때문에 장난감 소독 하는데 용이해요.  </li>
+<li>유팡은 자외선 건조를 하고 레이퀸은 열풍 건조를 해요.  </li>
+</ul>
+<p>두개 다 점유율은 비슷한 것 같아요.  </p>
+<h1 id="_17">불만제로?</h1>
+<p>간단하게 젖병소독기에 대해서 불만제로에 나왔던 내용 소개할께요.<br />
+위에 적어둔 내용이기는 한데, 한번에 정리하는 게 더 보기 편할 것 같아요.  </p>
+<ul>
+<li>플라스틱은 자외선이 통과를 못하기 때문에 뒤집어서 넣으면 소독이 안됩니다. 직접 자외선을 쬐게 해 주세요.  </li>
+<li>완전건조가 필요해요. 저온건조시에는 세균이 더 번식한다는 것.  </li>
+<li>소독할 물건과 물건 사이에 간격이 넓어야 자외선/적외선이 물건에 닿아서 소독이 되요.  </li>
+<li>램프와 전구는 6개월에 한번씩 갈아주셔야 소독 효과가 있다고 합니다.  </li>
+</ul>
+<h1 id="_18">젖병소독기 대여는 안될까?</h1>
+<p>아쉽지만 대여는 안돼요.<br />
+아기용품 대여용품점에서는 대여도 해주는 것 같지만, 그런데서 전구 같은 걸 잘 갈아서 대여해 줄 것 같지는 않아요.<br />
+전구를 다 갈아서 대여해 준다고 해도 남이 쓰던 거라 <strong>몇 달 빌리면 사는 비용이 나온다는 불편한 진실</strong> 이 있기도 하고요.  </p>
+<p>보통 15만원 정도 하니까 구매하는 금액이 아까울 수도 있는데요.<br />
+오래 쓰시는 물건이니까 그냥 눈 딱 감고 구입하세요~.  </p>
+<p><strong>아이를 위한 물건이잖아요.</strong>  </p>
+<h1 id="_19">어떤걸 살까?</h1>
+<p>저희 부부는 <a href="http://click.linkprice.com/click.php?m=uril&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//m.0to7.com/shop/item/901863">레이퀸</a> 을 샀어요.<br />
+아무래도 젖병은 1년 정도 쓰는데 반해서, 아이 장난감은 학교 들어갈 때까지 사용할 것 같았거든요.  </p>
+<h1 id="_20">아기 용품 구매 팁</h1>
+<p>아기용품은 그 특성상 물건을 자주 사게 되요.  </p>
+<p>싸다고 최저가 검색하지 마시고 쇼핑몰 몇개만 정해서 포인트 적립하시는 것이 오히려 좋은 쇼핑 방법이에요.  </p>
+<p>저희 부부는 베이비페어같은 오프라인에서 구매하지 않으면 보통 <a href="http://click.linkprice.com/click.php?m=linkprice&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//click.linkprice.com/click.php%3Fm%3Dboribori%26l%3D0000%26a%3DA100515737"><strong>보리보리</strong></a> 나 <a href="http://click.linkprice.com/click.php?m=linkprice&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//click.linkprice.com/click.php%3Fm%3Duril%26l%3D0000%26a%3DA100515737"><strong>제로투세븐닷컴</strong></a> 에서 구매해요.  </p>
+<p><a href="http://click.linkprice.com/click.php?m=linkprice&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//click.linkprice.com/click.php%3Fm%3Duril%26l%3D0000%26a%3DA100515737"><strong>제로투세븐닷컴</strong></a> 은 물건이 다양하고 쇼핑몰이 인지도가 높아요.<br />
+<a href="http://click.linkprice.com/click.php?m=linkprice&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//click.linkprice.com/click.php%3Fm%3Dboribori%26l%3D0000%26a%3DA100515737"><strong>보리보리</strong></a> 는 다른곳에서는 팔 지 않는 가성비 높은 제품들을 팔아요.  </p>
+<p>이 외에 아기 용품으로 유명한 일동 후디스의 <a href="http://click.linkprice.com/click.php?m=linkprice&amp;l=9999&amp;a=A100515737&amp;tu=http%3A//click.linkprice.com/click.php%3Fm%3Dmibaby%26l%3D0000%26a%3DA100515737"><strong>마이베이비</strong></a> 도 있으니 참고하세요.  </p>
+<p>이 글은 누구의 후원도 받지 않고 작성되었습니다.<br />
+다만 일부 링크는 개별 쇼핑몰로 연결되며 이러한 경우 수익성 링크일 가능성이 있습니다.  </p>
+<p>분류 : <a href="http://wiki.selfhow.com/%EB%A6%AC%EB%B7%B0">리뷰</a>  </p></p>
+		<p>
+		<hr />
+		<h1>이 문서가 가리키는 다른 문서 목록</h1>
+		<ul>
+		<li><a href="http://wiki.selfhow.com/리뷰">리뷰</a></li>
+		</ul>
+		</p>
+		<p></p>
+		</div>
+		
+							  <!-- 애드센스 이미지 광고. 반응형 -->
+								<DIV class='ads_adsense_img' style='margin:40px 0px 40px 0px;'>
+								<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+								<!-- 디스플레이광고만 -->
+								<ins class="adsbygoogle"
+								     style="display:block"
+								     data-ad-client="ca-pub-8393857339019314"
+								     data-ad-slot="7474886381"
+								     data-ad-format="auto"></ins>
+								<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+								</script>
+								</DIV>
+								<!-- 애드센스 이미지 광고 끝 -->								  
+						 </div><!-- .entry-content -->						
+					</article>		
+				</main><!-- #main -->
+			</div><!-- .site-content -->
+		</div><!-- .site --> 
+		<footer class="site-footer">
+			
+			<div class="social-icons">			
+				<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwiki.selfhow.com%2F%EC%95%84%EB%B9%A0%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%A0%96%EB%B3%91-%EC%86%8C%EB%8F%85%EA%B8%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83" target='_blank'>
+					<svg class="icon icon-facebook" viewBox="0 0 32 32">
+						<use xlink:href="#icon-facebook"></use>
+					</svg>
+				</a>
+				<a href="https://twitter.com/share?url=http%3A%2F%2Fwiki.selfhow.com%2F%EC%95%84%EB%B9%A0%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%A0%96%EB%B3%91-%EC%86%8C%EB%8F%85%EA%B8%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83" target='_blank'>
+					<svg class="icon icon-twitter" viewBox="0 0 32 32">
+						<use xlink:href="#icon-twitter"></use>
+					</svg>
+				</a>
+			</div> <!-- end .social-icons -->			
+			
+			<div class="copyright">
+				<p>
+					Copyright <a href='http://selfhow.com' target='_blank'>selfhow.com</a> All right reserved.
+					<br />
+					contact : <a href="/cdn-cgi/l/email-protection#3f5c50514b5e5c4b7f4c5a5359575048115c5052"><span class="__cf_email__" data-cfemail="ff9c90918b9e9c8bbf8c9a9399979088d19c9092">[email&#160;protected]</span></a>
+				</p>
+			</div>
+		</footer>
+
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='/static/admin-bar.min.js?ver=4.4.2'></script>
+		<script type='text/javascript' src='/static/fluidvids.js?ver=3.1'></script>
+		<script type='text/javascript' src='/static/theme.js?ver=3.1'></script>
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+
+				b[c] = b[c].replace( rcs, ' ' );
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+
+		<div id="wpadminbar" class="nojq nojs">		
+			<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">툴바로 바로가기</a>
+			<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="툴바" tabindex="0">				
+				<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+					<li id="wp-admin-bar-my-account" class="menupop">
+						<a class="ab-item" aria-haspopup="true" href="#" onclick='return false;'>Profile</a>
+						<div class="ab-sub-wrapper">
+							<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+								
+								<li id="wp-admin-bar-user-info">
+									<a class="ab-item" style='min-width:50px;' href="/login">
+										<span class="display-name">login</span>
+									</a>		
+								</li>			
+								
+							</ul>
+						</div>						
+					</li>
+				</ul>			
+			</div>						
+		</div>
+
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-73889181-2', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	</body>
+</html>

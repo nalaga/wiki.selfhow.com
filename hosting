@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+	<head>		
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>호스팅 - wiki.selfhow.com</title>		
+		<link rel="alternate" type="application/rss+xml" title="호스팅 - wiki.selfhow.com 피드" href="http://wiki.selfhow.com/rss/" />
+
+		<link rel='stylesheet' href='/static/dashicons.min.css?ver=4.3.2' type='text/css' media='all' />
+		<link rel='stylesheet' href='/static/admin-bar.min.css?ver=4.3.2' type='text/css' media='all' />
+		<link rel='stylesheet' href='/static/style.css?ver=3.1' type='text/css' media='all' />
+		<link rel='stylesheet' href='//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic' type='text/css' media='all' />
+		<style type="text/css">
+			img.wp-smiley,
+			img.emoji {
+			  display: inline !important;
+			  border: none !important;
+			  box-shadow: none !important;
+			  height: 1em !important;
+			  width: 1em !important;
+			  margin: 0 .07em !important;
+			  vertical-align: -0.1em !important;
+			  background: none !important;
+			  padding: 0 !important;
+			}
+		</style>
+		<script type='text/javascript' src='/static/jquery.js?ver=1.11.3'></script>
+		<script type='text/javascript' src='/static/jquery-migrate.min.js?ver=1.2.1'></script>
+		<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+		<style type="text/css" media="screen">
+			html { margin-top: 32px !important; }
+			* html body { margin-top: 32px !important; }
+			@media screen and ( max-width: 782px ) {
+				html { margin-top: 46px !important; }
+				* html body { margin-top: 46px !important; }
+			}
+		</style>
+
+		<svg display="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="272" height="32" viewBox="0 0 272 32">
+			<defs>
+				<g id="icon-search">
+					<path class="path1" d="M28.072 24.749l-6.046-6.046c0.912-1.499 1.437-3.256 1.437-5.139 0-5.466-4.738-10.203-10.205-10.203-5.466 0-9.898 4.432-9.898 9.898 0 5.467 4.736 10.205 10.203 10.205 1.818 0 3.52-0.493 4.984-1.349l6.078 6.080c0.597 0.595 1.56 0.595 2.154 0l1.509-1.507c0.594-0.595 0.378-1.344-0.216-1.938zM6.406 13.258c0-3.784 3.067-6.853 6.851-6.853 3.786 0 7.158 3.373 7.158 7.158s-3.067 6.853-6.853 6.853-7.157-3.373-7.157-7.158z"></path>
+				</g>
+				<g id="icon-twitter">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM22.246 13.224c0.006 0.13 0.010 0.261 0.010 0.392 0 3.997-3.043 8.606-8.608 8.606-1.707 0-3.299-0.499-4.637-1.36 0.237 0.029 0.478 0.042 0.722 0.042 1.418 0 2.722-0.483 3.758-1.296-1.323-0.024-2.442-0.899-2.827-2.099 0.184 0.035 0.374 0.054 0.568 0.054 0.277 0 0.544-0.037 0.797-0.106-1.382-0.278-2.427-1.501-2.427-2.966 0-0.013 0-0.026 0.002-0.037 0.408 0.226 0.875 0.362 1.37 0.378-0.81-0.542-1.344-1.467-1.344-2.518 0-0.555 0.149-1.075 0.41-1.522 1.491 1.832 3.722 3.037 6.235 3.162-0.051-0.221-0.078-0.451-0.078-0.69 0-1.67 1.355-3.026 3.026-3.026 0.87 0 1.656 0.366 2.208 0.955 0.69-0.134 1.338-0.386 1.922-0.733-0.227 0.706-0.706 1.299-1.331 1.674 0.613-0.074 1.195-0.235 1.738-0.477-0.405 0.606-0.92 1.139-1.51 1.566z"></path>
+				</g>
+				<g id="icon-facebook">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM19.637 11.254h-2.309c-0.272 0-0.576 0.36-0.576 0.838v1.667h2.886v2.378h-2.886v7.138h-2.726v-7.138h-2.47v-2.376h2.47v-1.398c0-2.006 1.392-3.637 3.302-3.637h2.309v2.528z"></path>
+				</g>
+				<g id="icon-pinterest">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM17.050 19.642c-0.984-0.077-1.397-0.565-2.168-1.034-0.426 2.227-0.942 4.362-2.48 5.475-0.474-3.365 0.698-5.891 1.24-8.573-0.926-1.558 0.112-4.698 2.066-3.925 2.405 0.952-2.083 5.798 0.93 6.405 3.146 0.632 4.429-5.458 2.478-7.437-2.818-2.859-8.202-0.066-7.539 4.029 0.162 1.002 1.194 1.304 0.413 2.686-1.803-0.4-2.342-1.822-2.272-3.718 0.112-3.106 2.789-5.278 5.474-5.581 3.397-0.379 6.584 1.246 7.026 4.442 0.494 3.608-1.534 7.512-5.166 7.23z"></path>
+				</g>
+				<g id="icon-linkedin">
+					<path class="path1" d="M16 0.64c-8.483 0-15.36 6.877-15.36 15.36s6.877 15.36 15.36 15.36 15.36-6.877 15.36-15.36-6.877-15.36-15.36-15.36zM12.24 22.366h-3.11v-10.008h3.11v10.008zM10.666 11.13c-0.982 0-1.618-0.698-1.618-1.557 0-0.88 0.654-1.555 1.658-1.555s1.618 0.675 1.637 1.555c0.002 0.861-0.634 1.557-1.677 1.557zM23.598 22.366h-3.109v-5.547c0-1.29-0.451-2.168-1.576-2.168-0.859 0-1.37 0.594-1.597 1.166-0.082 0.203-0.102 0.491-0.102 0.776v5.771h-3.112v-6.816c0-1.248-0.040-2.293-0.082-3.192h2.701l0.144 1.39h0.061c0.41-0.654 1.413-1.616 3.091-1.616 2.046 0 3.581 1.37 3.581 4.317v5.918z"></path>
+				</g>
+				<g id="icon-eye">
+					<path class="line-eye" fill="none" fill-opacity="0" stroke="#ccc" stroke-width="0.5" stroke-miterlimit="1" d="M16,6C7.163,6,0,16,0,16s7.163,10,16,10s16-10,16-10S24.837,6,16,6z M16,22c-3.313,0-6-2.688-6-6
+					c0-3.313,2.687-6,6-6c3.312,0,6,2.687,6,6C22,19.312,19.312,22,16,22z M16,12c-2.209,0-4,1.791-4,4s1.791,4,4,4s4-1.791,4-4 S18.209,12,16,12z"/>
+				</g>
+				<symbol id="icon-instagram" viewBox="0 0 1024 1024">
+					<title>instagram</title>
+					<path class="path1" d="M518.22 601.605c24.826 0 46.013-8.467 63.559-25.44 17.56-16.973 26.346-37.493 26.346-61.519 0-24.066-8.773-44.573-26.346-61.559-17.533-16.96-38.733-25.453-63.559-25.453-24.64 0-45.733 8.493-63.293 25.453-17.546 16.986-26.333 37.493-26.333 61.559 0 24.040 8.787 44.546 26.333 61.519 17.56 16.946 38.653 25.44 63.293 25.44z"></path>
+					<path class="path2" d="M670.685 341.796h-50.653c-5.613 0-10.36 1.987-14.226 5.96-3.893 3.987-5.84 8.68-5.84 14.133v47.999c0 5.613 1.947 10.373 5.84 14.24 3.867 3.893 8.613 5.827 14.226 5.827h50.653c5.613 0 10.36-1.933 14.24-5.827 3.88-3.867 5.827-8.627 5.827-14.24v-47.999c0-5.453-1.947-10.147-5.827-14.133-3.88-3.973-8.627-5.96-14.24-5.96z"></path>
+					<path class="path3" d="M657.298 519.273c0 24.453-6.2 46.973-18.613 67.652-12.44 20.666-29.293 36.986-50.626 49.039-21.346 12.013-44.626 18.026-69.826 18.026-38.226 0-70.906-13.133-98.065-39.426-27.146-26.28-40.733-58.039-40.733-95.279 0-13.186 1.947-25.893 5.827-38.093h-41.026v188.518c0 5.040 1.693 9.253 5.107 12.653 3.373 3.413 7.6 5.107 12.64 5.107h311.023c4.84 0 9.013-1.693 12.507-5.107 3.493-3.4 5.24-7.613 5.24-12.653v-188.531h-39.266c3.867 12.213 5.813 24.906 5.813 38.093z"></path>
+					<path class="path4" d="M511.967 0c-282.756 0-511.967 229.21-511.967 511.967 0 282.81 229.21 512.033 511.967 512.033 282.81 0 512.020-229.21 512.020-512.033 0.013-282.756-229.21-511.967-512.020-511.967zM741.377 681.631c0 15.72-5.627 29.186-16.893 40.439-11.253 11.267-24.72 16.88-40.439 16.88h-332.262c-15.706 0-29.186-5.613-40.439-16.88-11.24-11.253-16.88-24.72-16.88-40.439v-332.262c0-15.706 5.64-29.2 16.88-40.439 11.253-11.253 24.733-16.88 40.439-16.88h332.249c15.733 0 29.186 5.627 40.453 16.88 11.253 11.24 16.88 24.733 16.88 40.439v332.262z"></path>
+				</symbol>
+			</defs>
+		</svg>
+		<!--[if lt IE 9]>
+			<script src="http://wiki.selfhow.com/wp-content/themes/so-simple-75/assets/js/html5shiv.min.js"></script>
+			<script src="http://wiki.selfhow.com/wp-content/themes/so-simple-75/assets/js/respond.min.js"></script>
+		<![endif]-->
+
+		<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+	</head>
+	<body class="home blog logged-in admin-bar no-customize-support">		
+		<div id="page" class="hfeed site">			
+			<header class="site-header">				
+				<div class="menu-icon">
+					<div class="menu-global menu-top"></div>
+					<div class="menu-global menu-middle"></div>
+					<div class="menu-global menu-bottom"></div>
+				</div>
+				
+				<nav class="col-xs-12 col-sm-6 main-navigation no-padding" role="navigation">
+					<div class="menu">
+						<ul>
+							<li class="page_item page-item-2">
+								<a href="/분류/">분류</a>
+							</li>
+						</ul>
+					</div>
+				</nav><!-- #site-navigation -->
+
+				<div class="site-logo">
+					<h1 class="site-title"><a href="/" rel="home">셀프위키</a></h1>
+					<p class="site-description">잡학다식 셀프위키</p>
+					<p>
+					<form method='post' action='/search/'>
+					  <input type='text' name='keyword' style='width:150px;' />
+					  <input type='submit' name='btnsearch' value='검색' />
+					</form>
+					</p>			
+				</div>
+			</header>			
+			<div id="content" class="site-content">
+				<main id="main" class="site-main" role="main">
+					<article id="item post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized">
+						<div class="entry-content">	
+							  <!-- 애드센스 이미지 광고. 반응형 -->
+								<DIV class='ads_adsense_img' style='margin:40px 0px 40px 0px;'>
+								<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+								<!-- 디스플레이광고만 -->
+								<ins class="adsbygoogle"
+								     style="display:block"
+								     data-ad-client="ca-pub-8393857339019314"
+								     data-ad-slot="7474886381"
+								     data-ad-format="auto"></ins>
+								<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+								</script>
+								</DIV>
+								<!-- 애드센스 이미지 광고 끝 -->													
+							  
+		<strong><h1 class="entry-title"><a href='/hosting'>호스팅</a></h1></strong>
+		<div>		
+		<span class="entry-date">
+			<span class="posted-on">
+				<a href="/hosting" title="selfhow" rel="selfhow">
+					<time class="entry-date published" datetime="16-02-16T18:43:10+09:00">최초 생성 : 16-02-16 18:43:10</time>
+					 // 
+					<time class="updated" datetime="16-02-16T18:43:10+09:00">최종 수정 : 16-02-16 18:43:10</time>
+				</a>
+			</span>			
+		</span>
+		<p><h3 id="_1">호스팅</h3>
+<h4 id="_2">호스팅이란</h4>
+<p>인터넷상에서 여러가지 서비스를 제공할 수 있는 컴퓨터를 서버라고 합니다.<br />
+호스팅은 서버의 일부 혹은 전부를 임대하는 것을 말합니다.<br />
+홈페이지나 블로그가 인터넷에 보이기 위해서는 저장 공간이 필요하고 인터넷 회선도 필요합니다.<br />
+이러한 공간과 회선(트래픽)을 빌려주는 서비스를 호스팅이라고 합니다.  </p>
+<h4 id="_3">호스팅의 종류</h4>
+<p>호스팅의 종류는 너무 많지만 크게 갈래를 나눠보면 아래와 같습니다.<br />
+1. 웹호스팅<br />
+2. 서버 호스팅  </p>
+<h5 id="_4">서버 호스팅</h5>
+<p>서버 호스팅은 서버의 기능을 모두 쓸 수 있기에 확장의 폭이 넓지만 상대적으로 비쌉니다.  </p>
+<h5 id="_5">웹 호스팅</h5>
+<p>웹 호스팅은 서버의 한 공간을 빌려서 웹 페이지를 보여줄 수 있게 하는 서비스입니다.<br />
+웹 페이지만 보여줄 수 있기에 기능이 제한되어 있고 저렴한 만큼 상대적으로 저렴합니다.  </p>
+<p><strong>아직 초보자시라면 웹 호스팅을 선택하시면 됩니다.</strong>  </p>
+<h4 id="_6">호스팅을 고르는 방법</h4>
+<p>호스팅을 보는 기준은 총 3가지입니다.<br />
+1. 트래픽<br />
+2. 용량<br />
+3. 속도  </p>
+<h5 id="_7">트래픽</h5>
+<p>트래픽은 데이터 전송량입니다.<br />
+휴대폰 사용시 한달에 1G 제공! 이런 것과 똑같습니다.<br />
+웹 호스팅별로 일별, 월별, 혹은 일+월별로 제공하는 트래픽이 다르고 비용도 다르므로 잘 알아봐야 합니다.  </p>
+<h5 id="_8">용량</h5>
+<p>용량은 지원하는 하드디스크의 용량입니다.<br />
+워드프레스에서는 대부분의 용량을 이미지가 차지하므로 본인의 홈페이지나 블로그가 이미지를 많이 사용한다면 용량을 많이 받는 것이 좋습니다.  </p>
+<h5 id="_9">속도</h5>
+<p>회선 속도는 국내라면 어디든 다 비슷합니다.<br />
+웹 호스팅 서비스는 여러 사용자가 서버 한 대를 나눠쓰는 형태가 됩니다.<br />
+따라서 같은 서버에 입주한 다른 사용자가 무거운 작업을 하면 느리고 아니라면 빠를 경우가 많습니다.  </p>
+<p>만약 해외를 대상으로 서비스하려면 해외 호스팅을 선택하는 것이 해외에서 접속했을 때 훨씬 빠릅니다.<br />
+다만 상대적으로 국내에서는 느립니다.<br />
+해외 호스팅을 사용하실 꺼라면 서비스하는 지역이 어디인지 잘 체크하세요.  </p>
+<h5 id="_10">처음에는 저렴한 호스팅으로 시작하세요.</h5>
+<p>대부분의 호스팅에서는 상위 사양으로 업그레이드를 지원하므로 먼저 저렴한 호스팅으로 구축하시고 사용자가 많아지면 업그레이드하면 됩니다.  </p>
+<h5 id="_11">무료 호스팅은 추천하지 않습니다.</h5>
+<p>우리나라에서는 너무 영세하지 않고 호스팅 비용이 무료이면서 자기 소유 도메인을 세팅할 수 있는 호스팅 업체를 못찾았습니다.<br />
+혹시 찾으시면 <a href="/cdn-cgi/l/email-protection#56797921263539382233382278223d16313b373f3a7835393b">wpcontent.tk</a> 에 연락주시면 이 글을 수정하겠습니다.  </p>
+<p>해외 무료 호스팅은 대부분 자기 소유 도메인을 연결할 수 있게 서비스를 해 줍니다만 크게 2가지 맹점이 있습니다.<br />
+하나는 국내에서 서비스하기에는 너무 느리다는 점입니다.<br />
+두번째는 해외 호스팅의 경우 CPU 제한 등의 잘 이해할 수 없는 이유로 갑자기 계정이 삭제되는 경우가 있습니다.  </p>
+<h5 id="_12">워드프레스 추가 사양</h5>
+<p>이 외에 추가로 워드프레스를 설치하는 호스팅에 요구되는 조건은 아래와 같습니다.<br />
+1. 서버가 UTF-8을 지원할 것<br />
+2. 데이터베이스가 UTF-8 형식일 것<br />
+3. PHP 버전이 5.3 이상일 것  </p>
+<p>UTF-8이라는 것은 글자를 어떻게 나타낼 것인가에 대한 규약입니다.<br />
+워드프레스는 미국에서 만들어졌고 전세계에서 사용하고 있기 때문에 전세계의 글자를 표현할 수 있는 규칙이 필요합니다.<br />
+각 나라의 글자를 표현하는 규칙 중 현재 가장 범용적으로 사용되고 있는 것이 utf-8 입니다.  </p>
+<p>php 라는 것은 워드프레스가 구동되는 서버 언어입니다.<br />
+php 버전이 5.3 이하여도 실행은 되지만 원활한 구동을 위해서 5.3 이상을 추천합니다.  </p>
+<h4 id="_13">호스팅 설정 후 꼭 적어두어야 할 것</h4>
+<ol>
+<li>FTP host, 아이디와 비밀번호  </li>
+<li>mysql 데이터베이스 이름과 아이디와 비밀번호  </li>
+<li>웹 호스팅의 네임서버  </li>
+</ol>
+<p>FTP 는 여러분의 웹 서버로 파일을 전송할 때 사용하는 겁니다.<br />
+웹사이트 로그인하는 것과는 별도입니다.  </p>
+<p>mysql 은 데이터베이스입니다.<br />
+워드프레스의 컨텐츠는 데이터베이스에 차곡차곡 들어가므로 데이터 베이스 연결이 필요합니다.  </p>
+<p>웹 호스팅의 네임서버<br />
+웹 호스팅의 네임서버가 필요한 이유는 추후에 도메인을 연결할 때 사용하기 때문입니다.<br />
+적어도 2개, 많으면 5개 정도 됩니다.  </p>
+<p>위 3개 중 하나라도 잘 모르시겠다면 웹 호스팅 업체에 문의를 해 보셔야 합니다.  </p></p>
+		<p></p>
+		<p>
+		<hr />
+		<h1>이 문서를 가리키는 다른 문서 목록</h1>
+		<ul>
+		<li><a href="http://wiki.selfhow.com/wordpress_prepare_install">워드프레스 설치 전에 미리 준비해야 하는 것</a></li><li><a href="http://wiki.selfhow.com/wordpress_lecture">워드프레스_강의</a></li>
+		</ul>
+		</p>
+		</div>
+		
+							  <!-- 애드센스 이미지 광고. 반응형 -->
+								<DIV class='ads_adsense_img' style='margin:40px 0px 40px 0px;'>
+								<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+								<!-- 디스플레이광고만 -->
+								<ins class="adsbygoogle"
+								     style="display:block"
+								     data-ad-client="ca-pub-8393857339019314"
+								     data-ad-slot="7474886381"
+								     data-ad-format="auto"></ins>
+								<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+								</script>
+								</DIV>
+								<!-- 애드센스 이미지 광고 끝 -->								  
+						 </div><!-- .entry-content -->						
+					</article>		
+				</main><!-- #main -->
+			</div><!-- .site-content -->
+		</div><!-- .site --> 
+		<footer class="site-footer">
+			
+			<div class="social-icons">			
+				<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwiki.selfhow.com%2Fhosting" target='_blank'>
+					<svg class="icon icon-facebook" viewBox="0 0 32 32">
+						<use xlink:href="#icon-facebook"></use>
+					</svg>
+				</a>
+				<a href="https://twitter.com/share?url=http%3A%2F%2Fwiki.selfhow.com%2Fhosting" target='_blank'>
+					<svg class="icon icon-twitter" viewBox="0 0 32 32">
+						<use xlink:href="#icon-twitter"></use>
+					</svg>
+				</a>
+			</div> <!-- end .social-icons -->			
+			
+			<div class="copyright">
+				<p>
+					Copyright <a href='http://selfhow.com' target='_blank'>selfhow.com</a> All right reserved.
+					<br />
+					contact : <a href="/cdn-cgi/l/email-protection#3e5d51504a5f5d4a7e4d5b5258565149105d5153"><span class="__cf_email__" data-cfemail="b1d2dedfc5d0d2c5f1c2d4ddd7d9dec69fd2dedc">[email&#160;protected]</span></a>
+				</p>
+			</div>
+		</footer>
+
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='/static/admin-bar.min.js?ver=4.4.2'></script>
+		<script type='text/javascript' src='/static/fluidvids.js?ver=3.1'></script>
+		<script type='text/javascript' src='/static/theme.js?ver=3.1'></script>
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+
+				b[c] = b[c].replace( rcs, ' ' );
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+
+		<div id="wpadminbar" class="nojq nojs">		
+			<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">툴바로 바로가기</a>
+			<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="툴바" tabindex="0">				
+				<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+					<li id="wp-admin-bar-my-account" class="menupop">
+						<a class="ab-item" aria-haspopup="true" href="#" onclick='return false;'>Profile</a>
+						<div class="ab-sub-wrapper">
+							<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+								
+								<li id="wp-admin-bar-user-info">
+									<a class="ab-item" style='min-width:50px;' href="/login">
+										<span class="display-name">login</span>
+									</a>		
+								</li>			
+								
+							</ul>
+						</div>						
+					</li>
+				</ul>			
+			</div>						
+		</div>
+
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-73889181-2', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	</body>
+</html>
